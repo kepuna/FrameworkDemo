@@ -1,0 +1,17 @@
+#source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '9.0'
+
+target 'ZZAdSDK' do
+
+  # Pods for ZZAdSDK
+  pod 'YYModel'
+  
+
+end
+
+target 'ZZAdSDKLib' do
+     pod 'YYModel'
+end
+
+
